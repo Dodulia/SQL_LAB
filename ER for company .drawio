@@ -139,7 +139,7 @@
             <mxPoint x="610" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="loS-coEFSZBmRu6-50ia-5" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="loS-coEFSZBmRu6-50ia-5" value="orders" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="750" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="loS-coEFSZBmRu6-50ia-6" value="sells" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -164,6 +164,24 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="730" y="620" as="sourcePoint" />
             <mxPoint x="830" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loS-coEFSZBmRu6-50ia-14" value="product" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="loS-coEFSZBmRu6-50ia-15" value="customer" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="loS-coEFSZBmRu6-50ia-16" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="loS-coEFSZBmRu6-50ia-7" target="loS-coEFSZBmRu6-50ia-15">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="830" y="710" as="sourcePoint" />
+            <mxPoint x="930" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="loS-coEFSZBmRu6-50ia-17" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="loS-coEFSZBmRu6-50ia-6" target="loS-coEFSZBmRu6-50ia-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="410" y="670" as="sourcePoint" />
+            <mxPoint x="510" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
